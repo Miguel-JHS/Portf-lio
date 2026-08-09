@@ -13,12 +13,12 @@ main {
     box-shadow: 3px 3px 5px blue;
     padding: 10px;
     border-radius: 10px;
-
 }
 
 h2 {
     background-color: blue;
     color: white;
+    font-size: 25px;
     padding: 10px;
     border-radius: 20px;
 }
@@ -37,6 +37,10 @@ p:hover {
 p {
     background-color: blue;
     color: white;
+    font-size: 20px;
+    width: 220px;
     padding: 10px;
+    margin: 20px auto;
     border-radius: 20px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.452);
 }
