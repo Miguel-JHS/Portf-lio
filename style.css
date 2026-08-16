@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(0, 0, 0);
+    background: linear-gradient(#dd5a08, #ecbd8e);
+    min-height: 787px;
 }
 
 
@@ -16,28 +17,28 @@ main {
 }
 
 h2 {
-    background-color: rgb(0, 255, 191);
-    color: balck;
-    font-size: 25px;
+    background-color: #d8d6eb;
+    color: black;
+    font-size: 29px;
     padding: 10px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 a {
-    
+    display: block;
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
 
 #p2:hover {
-    background-color: rgb(13, 192, 13);
+    background-color: yellow;
     transition: 0.5s;
 }
 
 #p2 {
-    background-color: rgb(0, 255, 191);
-    font-size: 20px;
-    width: 220px;
+    background-color: #d8d6eb;
+    font-size: 22px;
+    width: 250px;
     padding: 10px;
     margin: 20px auto;
     border-radius: 20px;
