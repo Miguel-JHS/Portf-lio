@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgb(65, 65, 231), rgb(176, 176, 231));
+    background: linear-gradient(#3e41db, #769ef5);
     color: black;
     min-height: 929px;
 }
@@ -7,7 +7,7 @@ body {
 .certificado {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    background: linear-gradient(orange, rgb(233, 176, 70));
+    background: linear-gradient(#ffa500,#e9b046);
     text-align: center;
     width: 450px;
     height: 320px;
