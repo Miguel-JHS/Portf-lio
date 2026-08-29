@@ -29,7 +29,7 @@ body {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.507);
 }
 
-.habilidades {
+.habilidades, .formacao {
     background: linear-gradient(#ffb88c, #ff9124);
     color: #000000;
     width: 400px;
@@ -39,18 +39,6 @@ body {
     margin: 10px;
     border-radius: 15px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.507);
-}
-
-.principal {
-    background-color: rgb(86, 55, 197);
-    color: white;
-    width: 380px;
-    height: 50px;
-    padding: 10px 10px 50px 10px;
-    border-radius:15px;
-    font-size: 37px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.507);
-    
 }
 
 p {
